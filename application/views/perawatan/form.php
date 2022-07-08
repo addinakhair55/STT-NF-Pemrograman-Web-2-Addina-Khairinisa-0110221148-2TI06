@@ -116,7 +116,7 @@
                     </div> 
                     <select id="jenis_perawatan_id" name="jenis_perawatan_id" class="form_control">
                             <?php include "config.php"; 
-                            $result = mysqli_query($connect, "SELECT * FROM jenis_perawatan");
+                            $result = mysqli_query($connect, "SELECT * FROM jenisperawatan");
                             while ($row = mysqli_fetch_array($result))
                             { ?>
                             <option value="<?php echo $row[0]?>">
