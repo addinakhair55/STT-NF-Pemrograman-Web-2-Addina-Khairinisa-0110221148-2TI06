@@ -272,7 +272,7 @@
                     <img class="p-2 mx-auto mb-3" src="<?=base_url('assets/img/alpard.png')?>" style="width: 300px; height: 300px;">
                     <h5 class="mb-0">Rp. 600.000/Hari</h5>
                     <p>TOYOTA ALPHARD</p>
-                    <a href="<?=base_url('index.php/login/login')?>" class="btn btn-primary py-1 px-5">Pilih</a>
+                    <a href="<?=base_url('index.php/auth/login')?>" class="btn btn-primary py-1 px-5">Pilih</a>
                     <!-- <div class="testimonial-text bg-light text-center p-3">
                     <h2 class="mb-0">Rp. 500.000/Hari</h2>
                     </div> -->
@@ -281,7 +281,7 @@
                     <img class="p-2 mx-auto mb-3" src="<?=base_url('assets/img/avanza.png')?>" style="width: 300px; height: 300px;">
                     <h5 class="mb-0">Rp. 300.000/Hari</h5>
                     <p>HONDA AVANZA</p>
-                    <a href="<?=base_url('index.php/login/login')?>" class="btn btn-primary py-1 px-5">Pilih</a>
+                    <a href="<?=base_url('index.php/auth/login')?>" class="btn btn-primary py-1 px-5">Pilih</a>
                     <!-- <div class="testimonial-text bg-light text-center p-4">
                     <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
                     </div> -->
@@ -290,7 +290,7 @@
                     <img class="p-2 mx-auto mb-3" src="<?=base_url('assets/img/xpander.png')?>" style="width: 300px; height: 300px;">
                     <h5 class="mb-0">Rp. 400.000/Hari</h5>
                     <p>MITSUBISHI XPANDER</p>
-                    <a href="<?=base_url('index.php/login/login')?>" class="btn btn-primary py-1 px-5">Pilih</a>
+                    <a href="<?=base_url('index.php/auth/login')?>" class="btn btn-primary py-1 px-5">Pilih</a>
                     <!-- <div class="testimonial-text bg-light text-center p-4">
                     <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
                     </div> -->
@@ -299,7 +299,7 @@
                     <img class="p-2 mx-auto mb-3" src="<?=base_url('assets/img/rush.png')?>" style="width: 300px; height: 300px;">
                     <h5 class="mb-0">Rp. 500.000/Hari</h5>
                     <p>TOYOTA RUSH</p>
-                    <a href="<?=base_url('index.php/login/login')?>" class="btn btn-primary py-1 px-5">Pilih</a>
+                    <a href="<?=base_url('index.php/auth/login')?>" class="btn btn-primary py-1 px-5">Pilih</a>
                     <!-- <div class="testimonial-text bg-light text-center p-4">
                     <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
                     </div> -->
@@ -399,7 +399,7 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="<?=base_url('assets/img/putra.jpg')?>" alt="">
+                            <img class="img-fluid" src="<?=base_url('assets/img/Putra.jpg')?>" alt="">
                             <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
                                 <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/putra-prayoga-7b3838227/"><i class="fab fa-linkedin-in"></i></a>
                                 <a class="btn btn-square mx-1" href="https://www.instagram.com/00puts88/"><i class="fab fa-instagram"></i></a>
